@@ -93,3 +93,6 @@ Passionate about **Machine Learning** and **Big Data Handling**
 </p>
 
 ---
+
+## My Resume? 
+[Its here !](https://github.com/user-attachments/files/21004794/SHREEHARI_S_Resume.pdf)
